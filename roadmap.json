@@ -1,0 +1,66 @@
+{
+  "books": [
+    {
+      "title": "Artificial Intelligence: A Modern Approach",
+      "authors": ["Stuart Russell", "Peter Norvig"],
+      "overview": "A comprehensive introduction to AI, covering a wide range of topics from search algorithms to machine learning.",
+      "suitable_for": "Beginners and intermediate learners seeking a thorough understanding of AI principles.",
+      "availability": "Available on major online retailers and academic bookstores."
+    },
+    {
+      "title": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+      "author": "Aurélien Géron",
+      "overview": "A practical guide focusing on implementing machine learning and deep learning algorithms using Python libraries.",
+      "suitable_for": "Individuals with basic programming knowledge aiming to apply AI techniques.",
+      "availability": "Available on major online retailers and academic bookstores."
+    },
+    {
+      "title": "Deep Learning",
+      "authors": ["Ian Goodfellow", "Yoshua Bengio", "Aaron Courville"],
+      "overview": "An authoritative resource on deep learning, exploring theoretical foundations and practical applications.",
+      "suitable_for": "Advanced learners and professionals interested in deep learning research.",
+      "availability": "Available on major online retailers and academic bookstores."
+    }
+  ],
+  "online_courses": [
+    {
+      "title": "AI For Everyone",
+      "instructor": "Andrew Ng",
+      "platform": "Coursera",
+      "overview": "A non-technical course designed to introduce AI concepts and their implications in various industries.",
+      "suitable_for": "Beginners and business professionals seeking to understand AI's impact.",
+      "link": "https://www.coursera.org/learn/ai-for-everyone"
+    },
+    {
+      "title": "Machine Learning",
+      "instructor": "Andrew Ng",
+      "platform": "Coursera",
+      "overview": "A comprehensive course covering fundamental machine learning algorithms and techniques.",
+      "suitable_for": "Individuals with a background in programming and basic mathematics.",
+      "link": "https://www.coursera.org/learn/machine-learning"
+    },
+    {
+      "title": "Deep Learning Specialization",
+      "instructors": ["Andrew Ng", "DeepLearning.AI Team"],
+      "platform": "Coursera",
+      "overview": "A series of courses delving into deep learning, neural networks, and their applications.",
+      "suitable_for": "Learners with prior machine learning experience aiming to specialize in deep learning.",
+      "link": "https://www.coursera.org/specializations/deep-learning"
+    },
+    {
+      "title": "Elements of AI",
+      "institution": "University of Helsinki",
+      "overview": "An accessible course introducing AI concepts, designed for learners without a technical background.",
+      "suitable_for": "Anyone interested in understanding the basics of AI.",
+      "link": "https://www.elementsofai.com/"
+    },
+    {
+      "title": "Artificial Intelligence: Principles and Techniques",
+      "institution": "Stanford University",
+      "platform": "Stanford Online",
+      "overview": "An advanced course covering AI principles, including search, reasoning, and machine learning.",
+      "suitable_for": "Learners with a strong foundation in computer science and mathematics.",
+      "link": "https://online.stanford.edu/courses/cs221-artificial-intelligence-principles-and-techniques"
+    }
+  ]
+}
